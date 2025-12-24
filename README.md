@@ -1,6 +1,6 @@
 ## Project Overview: AI-Driven Breast Cancer Detection
 
-This project explores the use of artificial intelligence for breast cancer detection by combining medical imaging analysis with numerical clinical data modeling. The goal is to evaluate how convolutional neural networks (CNNs) and traditional machine-learning techniques can classify cancerous versus non-cancerous cases with high reliability.
+This project uses artificial intelligence for breast cancer detection by combining medical imaging analysis with numerical clinical data modeling. The goal is to evaluate how convolutional neural networks (CNNs) and traditional machine-learning techniques can classify cancerous versus non-cancerous cases with high reliability.
 
 The project is implemented end-to-end in Python and focuses on model development, training, validation, and evaluation rather than deployment or user interface design.
 
